@@ -1,3 +1,4 @@
+논문 [메타 특성을 이용한 네트워크 데이터 이상탐지기법 성능]을 작성하는데 사용한 두 번째 모델입니다.
 
 **L**ocally **S**elective **C**ombination in **P**arallel Outlier Ensembles (LSCP): 
 **a fully unsupervised framework to selectively combine base detectors by emphasizing data locality.**
